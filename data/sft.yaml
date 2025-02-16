@@ -1,0 +1,8 @@
+datasets:
+  - json_path: /path/to/your/llava_next_sft_790k.json
+    sampling_strategy: all
+  - json_path: /path/to/your/utr_data.json
+    sampling_strategy: all
+  - json_path: /path/to/your/videochat2_ppl.json
+    sampling_strategy: all
+  
