@@ -189,6 +189,7 @@ torchrun --nproc_per_node=8 \
 
 ```bash
 NNODES=8
+LLM_VERSION="Qwen/Qwen2-7B-Instruct"
 VISION_MODEL_VERSION="google/siglip-so400m-patch14-384"
 PROMPT_VERSION="qwen2"
 BASE_RUN_NAME="video-utr-7b"
