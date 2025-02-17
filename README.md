@@ -33,8 +33,8 @@
 </div>
 
 <div>
-    <sup>1</sup>Huazhong University of Science and Technology;
-    <sup>2</sup>Beijing University of Posts and Telecommunications;
+    <sup>1</sup>HUST;
+    <sup>2</sup>BUPT;
     <sup>3</sup>StepAI;
 </div>
 
