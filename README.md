@@ -33,9 +33,9 @@
 </div>
 
 <div>
-    <sup>1</sup>HUST;
-    <sup>2</sup>BUPT;
-    <sup>3</sup>StepAI;
+    <sup>1</sup>HUST 
+    <sup>2</sup>BUPT 
+    <sup>3</sup>StepAI 
 </div>
 
 <img src="assets/utr.jpg" width="100%"/>
