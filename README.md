@@ -267,6 +267,7 @@ python -m accelerate.commands.launch \
 ## Results
 ### Image Understanding Performance
 <img src="assets/eval_image.jpg" width="100%"/>
+
 ### Video Understanding Performance
 <img src="assets/eval_video.jpg" width="100%"/>
 
