@@ -278,7 +278,7 @@ Our work is built upon the [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT/)
 
 ## Citation
 
-If you find our paper and code useful in your research, please consider giving us a star :star: and citing our work :pencil: :)
+If you find our paper and code useful in your research, please consider giving us a star :star: and citing our work :pencil:
 ```
 @article{video-utr,
     title={Unhackable Temporal Rewarding for Scalable Video MLLMs},
