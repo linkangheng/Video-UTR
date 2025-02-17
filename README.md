@@ -19,7 +19,7 @@
 </a>
 
 <div>
-    <a href="" target="_blank">En Yu</a><sup>1*</sup>,</span>
+    <a href="https://scholar.google.com/citations?user=rWCQMNgAAAAJ&hl=en" target="_blank">En Yu</a><sup>1*</sup>,</span>
     <a href="" target="_blank">Kangheng Lin</a><sup>2*</sup>,</span>
     <a href="" target="_blank">Liang Zhao</a><sup>3*</sup>,</span>
     <a href="" target="_blank">Yana Wei</a>,
@@ -35,7 +35,8 @@
 <div>
     <sup>1</sup>HUST 
     <sup>2</sup>BUPT 
-    <sup>3</sup>StepAI 
+    <sup>3</sup>JHU
+    <sup>4</sup>StepAI 
 </div>
 
 <img src="assets/utr.jpg" width="100%"/>
