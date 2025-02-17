@@ -1,0 +1,6 @@
+[submodule "train"]
+	path = train
+	url = https://github.com/LLaVA-VL/LLaVA-NeXT.git
+[submodule "eval"]
+	path = eval
+	url = https://github.com/EvolvingLMMs-Lab/lmms-eval.git
