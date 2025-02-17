@@ -8,25 +8,28 @@
 <a href="xxx" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-video--utr-red?logo=arxiv" height="20" />
 </a>
-<a href="xxx" target="_blank">
+<a href="https://ahnsun.github.io/UTR/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-video--utr-blue.svg" height="20" />
 </a>
-<a href="xxx" target="_blank">
+<a href="https://huggingface.co/Kangheng/Video-UTR-7b" target="_blank">
     <img alt="HF Model: Video-UTR" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-Video--UTR--7b-ffc107?color=ffc107&logoColor=white" height="20" />
+</a>
+<a href="" target="_blank">
+    <img alt="HF Model: UTR-Data" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Dataset-UTR--Data-ffc107?color=ffc107&logoColor=white" height="20" />
 </a>
 
 <div>
-    <a href="xxx" target="_blank">En Yu</a><sup>1*</sup>,</span>
-    <a href="xxx" target="_blank">Kangheng Lin</a><sup>2*</sup>,</span>
-    <a href="xxx" target="_blank">Liang Zhao</a><sup>3*</sup>,</span>
-    <a href="xxx" target="_blank">Yana Wei</a>
-    <a href="xxx" target="_blank">Zining Zhu</a>
-    <a href="xxx" target="_blank">Haoran Wei</a>
-    <a href="xxx" target="_blank">Jianjian Sun</a>
-    <a href="xxx" target="_blank">Zheng Ge</a>
-    <a href="xxx" target="_blank">Xiangyu Zhang</a>
-    <a href="xxx" target="_blank">Jingyu Wang</a>
-    <a href="xxx" target="_blank">Wenbing Tao</a>
+    <a href="" target="_blank">En Yu</a><sup>1*</sup>,</span>
+    <a href="" target="_blank">Kangheng Lin</a><sup>2*</sup>,</span>
+    <a href="" target="_blank">Liang Zhao</a><sup>3*</sup>,</span>
+    <a href="" target="_blank">Yana Wei</a>
+    <a href="" target="_blank">Zining Zhu</a>
+    <a href="" target="_blank">Haoran Wei</a>
+    <a href="" target="_blank">Jianjian Sun</a>
+    <a href="" target="_blank">Zheng Ge</a>
+    <a href="" target="_blank">Xiangyu Zhang</a>
+    <a href="" target="_blank">Jingyu Wang</a>
+    <a href="" target="_blank">Wenbing Tao</a>
 </div>
 
 <div>
