@@ -21,8 +21,8 @@
 <div>
     <a href="https://scholar.google.com/citations?user=rWCQMNgAAAAJ&hl=en" target="_blank">En Yu</a><sup>1*</sup>,</span>
     <a href="" target="_blank">Kangheng Lin</a><sup>2*</sup>,</span>
-    <a href="" target="_blank">Liang Zhao</a><sup>3*</sup>,</span>
-    <a href="" target="_blank">Yana Wei</a>,
+    <a href="" target="_blank">Liang Zhao</a><sup>4*</sup>,</span>
+    <a href="" target="_blank">Yana Wei<sup>3*</sup></a>,
     <a href="" target="_blank">Zining Zhu</a>,
     <a href="" target="_blank">Haoran Wei</a>,
     <a href="" target="_blank">Jianjian Sun</a>,
