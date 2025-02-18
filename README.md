@@ -5,7 +5,7 @@
 <img src="assets/preview.png" width="50%"/>
 <br />
 
-<a href="" target="_blank">
+<a href="https://arxiv.org/pdf/2502.12081 " target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-video--utr-red?logo=arxiv" height="20" />
 </a>
 <a href="https://ahnsun.github.io/UTR/" target="_blank">
