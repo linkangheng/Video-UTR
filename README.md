@@ -39,10 +39,11 @@
     <sup>4</sup>StepAI 
 </div>
 
-<img src="assets/utr.jpg" width="100%"/>
 <p align="justify"><i>
 We propose the theory of temporal hacking, from a reinforcement learning perspective, to explain anti-scaling law phenomenon in video MLLMs. We introduce a novel metric, Temporal Perplexity (TPL), to quantify the severity of temporal assignment. Through extensive experiments, we use the TPL score to analyze the causes and features of temporal hacking, leading to the development of two guiding principles for video-language modeling. Guided by these two principles, we further propose Unhackable Temporal Rewarding (UTR) and build a powerful video MLLM, ie., Video-UTR, a new family of state-of-the-art video-LMMs.
 </i></p>
+
+<img src="assets/utr.jpg" width="100%"/>
 
 </div>
 
