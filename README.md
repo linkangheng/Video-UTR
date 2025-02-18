@@ -285,7 +285,7 @@ If you find our paper and code useful in your research, please consider giving u
 @article{video-utr,
     title={Unhackable Temporal Rewarding for Scalable Video MLLMs},
     author={En Yu, Kangheng Lin, Liang Zhao, Yana Wei, Zining Zhu, Haoran Wei, Jianjian Sun, Zheng Ge, Xiangyu Zhang, Jingyu Wang, and Wenbing Tao},
-    journal={arXiv preprint arXiv:2412.10360},
+    journal={arXiv preprint arXiv:2502.12081},
     year={2025}
 }
 ```
